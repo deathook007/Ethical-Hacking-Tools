@@ -1,8 +1,8 @@
 # My Own Ethical Hacking Tools 🐱‍💻
 
 ## 1. MAC Changer
-- A simple and 100% secure script to change mac address effectively
-- python and python3 compatible
+- A simple and 100% secure script to change mac address effectively.
+- python and python3 compatible.
 - Usage - ```python3 mac_changer.py --help``` / ```python mac_changer.py --help```
 - Example - ```python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55``` / ```python mac_changer.py -i eth0 -m 00:11:22:33:44:55```
 
@@ -12,12 +12,12 @@ ScreenShots Below 👇
 
 
 ## 2. Fast Network Scanner
-- A simple and fast script to discover networks on same route
+- A simple and fast script to discover networks on same route.
 - Response time < 5 sec
-- python3 supported
+- python3 supported.
 - Usage - ```python3 network_scanner.py --help```
 - Example - ```python3 network_scanner.py -t XXX.YYY.ZZZ.1/24```
-- XXX.YYY.ZZZ.1/24 is your IP address
+- XXX.YYY.ZZZ.1/24 is your IP address.
 
 ScreenShots Below 👇
 
