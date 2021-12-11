@@ -7,7 +7,7 @@
 - Usage - ```python3 mac_changer.py --help``` / ```python mac_changer.py --help```
 - Example - ```python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55``` / ```python mac_changer.py -i eth0 -m 00:11:22:33:44:55```
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/Ethical-Hacking-Tools/blob/main/MAC%20Address%20Changer/mac_changer.png)
 
@@ -20,6 +20,6 @@ ScreenShots Below 👇
 - Example - ```python3 network_scanner.py -t XXX.YYY.ZZZ.1/24```
 - XXX.YYY.ZZZ.1/24 is your IP address.
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/Ethical-Hacking-Tools/blob/main/Network%20Scanner/network_scanner.png)
